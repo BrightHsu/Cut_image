@@ -1,0 +1,37 @@
+{		
+"res"	:	{
+            "dragon_08": {"image": "animation-1", "size": [200, 181], "pos": [1, 1]},
+            "dragon_09": {"image": "animation-1", "size": [200, 181], "pos": [205, 1]},
+            "dragon_10": {"image": "animation-1", "size": [200, 181], "pos": [409, 1]},
+            "dragon_11": {"image": "animation-1", "size": [200, 181], "pos": [613, 1]},
+            "dragon_12": {"image": "animation-1", "size": [200, 181], "pos": [817, 1]},
+            "dragon_13": {"image": "animation-1", "size": [200, 181], "pos": [1, 186]},
+            "dragon_14": {"image": "animation-1", "size": [200, 181], "pos": [205, 186]},
+            "dragon_15": {"image": "animation-1", "size": [200, 181], "pos": [409, 186]},
+
+            "fish_01": {"image": "animation-1", "size": [169, 146], "pos": [613, 186]},
+            "fish_02": {"image": "animation-1", "size": [169, 146], "pos": [786, 186]},
+            "fish_03": {"image": "animation-1", "size": [169, 146], "pos": [1, 371]},
+            "fish_04": {"image": "animation-1", "size": [169, 146], "pos": [174, 371]},
+            "fish_05": {"image": "animation-1", "size": [169, 146], "pos": [347, 371]},
+            "fish_06": {"image": "animation-1", "size": [169, 146], "pos": [520, 371]},
+            "fish_07": {"image": "animation-1", "size": [169, 146], "pos": [693, 371]},
+            "fish_08": {"image": "animation-1", "size": [169, 146], "pos": [1, 521]},
+            "fish_09": {"image": "animation-1", "size": [169, 146], "pos": [174, 521]},
+            "fish_10": {"image": "animation-1", "size": [169, 146], "pos": [347, 521]},
+            "fish_11": {"image": "animation-1", "size": [169, 146], "pos": [520, 521]},
+            "fish_12": {"image": "animation-1", "size": [169, 146], "pos": [693, 521]},
+            "fish_13": {"image": "animation-1", "size": [169, 146], "pos": [1, 671]},
+            "fish_14": {"image": "animation-1", "size": [169, 146], "pos": [174, 671]},
+            "fish_15": {"image": "animation-1", "size": [169, 146], "pos": [347, 671]},
+
+            "idleWin_01": {"image": "animation-1", "size": [169, 152], "pos": [520, 671]},
+            "idleWin_02": {"image": "animation-1", "size": [169, 152], "pos": [693, 671]},
+            "idleWin_03": {"image": "animation-1", "size": [169, 152], "pos": [1, 827]},
+            "idleWin_04": {"image": "animation-1", "size": [169, 152], "pos": [174, 827]},
+            "idleWin_05": {"image": "animation-1", "size": [169, 152], "pos": [347, 827]},
+            "idleWin_06": {"image": "animation-1", "size": [169, 152], "pos": [520, 827]},
+            "idleWin_07": {"image": "animation-1", "size": [169, 152], "pos": [693, 827]}
+			
+		}
+}

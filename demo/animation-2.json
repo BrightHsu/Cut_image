@@ -1,0 +1,36 @@
+{		
+"res"	:	{
+            "idleWin_08": {"image": "animation-2", "size": [169, 152], "pos": [1, 1]},
+            "idleWin_09": {"image": "animation-2", "size": [169, 152], "pos": [174, 1]},
+            "idleWin_10": {"image": "animation-2", "size": [169, 152], "pos": [347, 1]},
+            "idleWin_11": {"image": "animation-2", "size": [169, 152], "pos": [520, 1]},
+            "idleWin_12": {"image": "animation-2", "size": [169, 152], "pos": [693, 1]},
+            "idleWin_13": {"image": "animation-2", "size": [169, 152], "pos": [1, 157]},
+            "idleWin_14": {"image": "animation-2", "size": [169, 152], "pos": [174, 157]},
+            "idleWin_15": {"image": "animation-2", "size": [169, 152], "pos": [347, 157]},
+            "idleWin_16": {"image": "animation-2", "size": [169, 152], "pos": [520, 157]},
+            "idleWin_17": {"image": "animation-2", "size": [169, 152], "pos": [693, 157]},
+            "idleWin_18": {"image": "animation-2", "size": [169, 152], "pos": [1, 313]},
+            "idleWin_19": {"image": "animation-2", "size": [169, 152], "pos": [174, 313]},
+            "idleWin_20": {"image": "animation-2", "size": [169, 152], "pos": [347, 313]},
+            "idleWin_21": {"image": "animation-2", "size": [169, 152], "pos": [520, 313]},
+            "idleWin_22": {"image": "animation-2", "size": [169, 152], "pos": [693, 313]},
+            "idleWin_23": {"image": "animation-2", "size": [169, 152], "pos": [1, 469]},
+            "idleWin_24": {"image": "animation-2", "size": [169, 152], "pos": [174, 469]},
+            "idleWin_25": {"image": "animation-2", "size": [169, 152], "pos": [347, 469]},
+            "idleWin_26": {"image": "animation-2", "size": [169, 152], "pos": [520, 469]},
+            "idleWin_27": {"image": "animation-2", "size": [169, 152], "pos": [693, 469]},
+            "idleWin_28": {"image": "animation-2", "size": [169, 152], "pos": [1, 625]},
+
+            "lion_01": {"image": "animation-2", "size": [169, 145], "pos": [174, 625]},
+            "lion_02": {"image": "animation-2", "size": [169, 145], "pos": [347, 625]},
+            "lion_03": {"image": "animation-2", "size": [169, 145], "pos": [520, 625]},
+            "lion_04": {"image": "animation-2", "size": [169, 145], "pos": [693, 625]},
+            "lion_05": {"image": "animation-2", "size": [169, 145], "pos": [1, 781]},
+            "lion_06": {"image": "animation-2", "size": [169, 145], "pos": [174, 781]},
+            "lion_07": {"image": "animation-2", "size": [169, 145], "pos": [347, 781]},
+            "lion_08": {"image": "animation-2", "size": [169, 145], "pos": [520, 781]},
+            "lion_09": {"image": "animation-2", "size": [169, 145], "pos": [693, 781]}
+			
+		}
+}

@@ -1,0 +1,12 @@
+{		
+"res"	:	{
+            "wild_04": {"image": "animation-4", "size": [196, 196], "pos": [1, 1]},
+            "wild_05": {"image": "animation-4", "size": [196, 196], "pos": [201, 1]},
+            "wild_06": {"image": "animation-4", "size": [196, 196], "pos": [1, 201]},
+            "wild_07": {"image": "animation-4", "size": [196, 196], "pos": [201, 201]},
+            "wild_08": {"image": "animation-4", "size": [196, 196], "pos": [1, 401]},
+            "wild_09": {"image": "animation-4", "size": [196, 196], "pos": [201, 401]},
+            "wild_10": {"image": "animation-4", "size": [196, 196], "pos": [1, 601]},
+            "wild_11": {"image": "animation-4", "size": [196, 196], "pos": [201, 601]}
+		}
+}

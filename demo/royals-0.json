@@ -1,0 +1,16 @@
+{		
+"res"	:	{
+            "10":   {"image": "royals-0", "size": [170, 154], "pos": [1, 1]},
+            "10_1": {"image": "royals-0", "size": [170, 154], "pos": [176, 1]},
+            "9":    {"image": "royals-0", "size": [170, 154], "pos": [1, 159]},
+            "9_1":  {"image": "royals-0", "size": [170, 154], "pos": [176, 159]},
+            "a":    {"image": "royals-0", "size": [170, 154], "pos": [1, 317]},
+            "a_1":  {"image": "royals-0", "size": [170, 154], "pos": [176, 317]},
+            "j":    {"image": "royals-0", "size": [170, 154], "pos": [1, 475]},
+            "j_1":  {"image": "royals-0", "size": [170, 154], "pos": [176, 475]},
+            "k":    {"image": "royals-0", "size": [170, 154], "pos": [1, 633]},
+            "k_1":  {"image": "royals-0", "size": [170, 154], "pos": [1, 791]},
+            "q":    {"image": "royals-0", "size": [170, 154], "pos": [176, 633]},
+            "q_1":  {"image": "royals-0", "size": [170, 154], "pos": [176, 791]}
+		}
+}

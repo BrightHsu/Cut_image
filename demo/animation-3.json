@@ -1,0 +1,32 @@
+{		
+"res"	:	{
+            "lion_10": {"image": "animation-3", "size": [169, 145], "pos": [1, 1]},
+            "lion_11": {"image": "animation-3", "size": [169, 145], "pos": [174, 1]},
+            "lion_12": {"image": "animation-3", "size": [169, 145], "pos": [347, 1]},
+            "lion_13": {"image": "animation-3", "size": [169, 145], "pos": [520, 1]},
+            "lion_14": {"image": "animation-3", "size": [169, 145], "pos": [693, 1]},
+
+            "scatter_01": {"image": "animation-3", "size": [189, 189], "pos": [1, 150]},
+            "scatter_02": {"image": "animation-3", "size": [189, 189], "pos": [194, 150]},
+            "scatter_03": {"image": "animation-3", "size": [189, 189], "pos": [387, 150]},
+            "scatter_04": {"image": "animation-3", "size": [189, 189], "pos": [580, 150]},
+            "scatter_05": {"image": "animation-3", "size": [189, 189], "pos": [773, 150]},
+            "scatter_06": {"image": "animation-3", "size": [189, 189], "pos": [1, 343]},
+            "scatter_07": {"image": "animation-3", "size": [189, 189], "pos": [194, 343]},
+            "scatter_08": {"image": "animation-3", "size": [189, 189], "pos": [387, 343]},
+            "scatter_09": {"image": "animation-3", "size": [189, 189], "pos": [580, 343]},
+            "scatter_10": {"image": "animation-3", "size": [189, 189], "pos": [773, 343]},
+            "scatter_11": {"image": "animation-3", "size": [189, 189], "pos": [1, 536]},
+            "scatter_12": {"image": "animation-3", "size": [189, 189], "pos": [194, 536]},
+            "scatter_13": {"image": "animation-3", "size": [189, 189], "pos": [387, 536]},
+            "scatter_14": {"image": "animation-3", "size": [189, 189], "pos": [580, 536]},
+            "scatter_15": {"image": "animation-3", "size": [189, 189], "pos": [773, 536]},
+            "scatter_16": {"image": "animation-3", "size": [189, 189], "pos": [1, 729]},
+            "scatter_17": {"image": "animation-3", "size": [189, 189], "pos": [194, 729]},
+
+            "wild_01": {"image": "animation-3", "size": [196, 196], "pos": [387, 729]},
+            "wild_02": {"image": "animation-3", "size": [196, 196], "pos": [587, 729]},
+            "wild_03": {"image": "animation-3", "size": [196, 196], "pos": [787, 729]}
+			
+		}
+}

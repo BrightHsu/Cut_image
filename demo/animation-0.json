@@ -1,0 +1,31 @@
+{		
+"res"	:	{
+			"bird_01": {"image": "animation-0", "size": [184, 184], "pos": [1, 1]},
+            "bird_02": {"image": "animation-0", "size": [184, 184], "pos": [189, 1]},
+            "bird_03": {"image": "animation-0", "size": [184, 184], "pos": [377, 1]},
+            "bird_04": {"image": "animation-0", "size": [184, 184], "pos": [565, 1]},
+            "bird_05": {"image": "animation-0", "size": [184, 184], "pos": [753, 1]},
+            "bird_06": {"image": "animation-0", "size": [184, 184], "pos": [1, 189]},
+            "bird_07": {"image": "animation-0", "size": [184, 184], "pos": [189, 189]},
+            "bird_08": {"image": "animation-0", "size": [184, 184], "pos": [377, 189]},
+            "bird_09": {"image": "animation-0", "size": [184, 184], "pos": [565, 189]},
+            "bird_10": {"image": "animation-0", "size": [184, 184], "pos": [753, 189]},
+            "bird_11": {"image": "animation-0", "size": [184, 184], "pos": [1, 377]},
+            "bird_12": {"image": "animation-0", "size": [184, 184], "pos": [189, 377]},
+            "bird_13": {"image": "animation-0", "size": [184, 184], "pos": [377, 377]},
+            "bird_14": {"image": "animation-0", "size": [184, 184], "pos": [565, 377]},
+            "bird_15": {"image": "animation-0", "size": [184, 184], "pos": [753, 377]},
+            "bird_16": {"image": "animation-0", "size": [184, 184], "pos": [1, 565]},
+            "bird_17": {"image": "animation-0", "size": [184, 184], "pos": [189, 565]},
+            "bird_18": {"image": "animation-0", "size": [184, 184], "pos": [377, 565]},
+
+            "dragon_01": {"image": "animation-0", "size": [200, 181], "pos": [565, 565]},
+            "dragon_02": {"image": "animation-0", "size": [200, 181], "pos": [769, 565]},
+            "dragon_03": {"image": "animation-0", "size": [200, 181], "pos": [1, 753]},
+            "dragon_04": {"image": "animation-0", "size": [200, 181], "pos": [205, 753]},
+            "dragon_05": {"image": "animation-0", "size": [200, 181], "pos": [409, 753]},
+            "dragon_06": {"image": "animation-0", "size": [200, 181], "pos": [613, 753]},
+            "dragon_07": {"image": "animation-0", "size": [200, 181], "pos": [817, 753]}
+			
+		}
+}
